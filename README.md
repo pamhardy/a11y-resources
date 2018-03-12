@@ -5,6 +5,8 @@
 - A11Y Style Guide - http://a11y-style-guide.com/style-guide/
 - Accessibility Lists of lists - https://github.com/accessibility/a11y-lists-of-lists
 - Mike Gifford's Accessibility Lists of lists - https://github.com/mgifford/a11y-lists-of-lists
+- 24 Accessibility - http://www.24a11y.com/
+- Section508.gov - Accessibility Testing for Electronic Content - Tools to test websites, software, and electronic documents for conformance with the Revised 508 Standards; includes guidance on the Interagency Trusted Tester Program - https://www.section508.gov/refresh-toolkit/accessibility-testing
 - Bookmarked: Animation - https://laurakalbag.com/bookmarked-on-animation/
 
 ## Courses
@@ -19,3 +21,4 @@
 
 ## Further Reading
 - How to make inline error messages accessible - https://hiddedevries.nl/en/blog/2017-04-04-how-to-make-inline-error-messages-accessible?s=2017-04-04-how-to-make-error-messages-accessible
+- Top Twitter People to Follow in Web Accessibility (Joe Watkins) - https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility
